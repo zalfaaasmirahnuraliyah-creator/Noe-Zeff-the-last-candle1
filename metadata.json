@@ -1,0 +1,6 @@
+{
+  "name": "Noe & Zeff: The Last Candle",
+  "description": "A cooperative 2D pixel-art gothic horror platformer. Protect Zeff's candle from extinguishing gusts and lurking shadows through an abandoned mansion corridor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
